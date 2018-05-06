@@ -1,0 +1,4 @@
+/tmp/project1/usr/bin/runhello.sh
+/tmp/project1/usr/share/doc/cmake/project1/hello.txt
+/tmp/project1/usr/share/doc/cmake/project1/COPYRIGHT
+/tmp/project1/usr/share/doc/cmake/project1/README
